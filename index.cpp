@@ -7,10 +7,10 @@ int main() {
     char grade = 'A';
     float score = 99.9;
 
-    cout << "Student Name: " << name;
-    cout << "Student ID: " << idNum;
-    cout << "Student Age: " << age;
-    cout << "Student Grade: " << grade;
-    cout << "Student Score: " << score;
+    cout << "Student Name: " << name << "\n";
+    cout << "Student ID: " << idNum << "\n";
+    cout << "Student Age: " << age << "\n";
+    cout << "Student Grade: " << grade << "\n";
+    cout << "Student Score: " << score << "\n";
     return 0;
 }
