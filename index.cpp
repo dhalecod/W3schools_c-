@@ -1,5 +1,8 @@
 #include <iostream>
+using namespace std;
 int main() {
-    std :: cout << "I am Dev_Marcus a Top-Notch software engineer";
+    cout << "I am Dev_Marcus";
+    cout << "I am a software engineer";
+    cout << "I am a Nigerian";
     return 0;
 }
