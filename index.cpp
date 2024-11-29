@@ -1,7 +1,16 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int myNum = 22;
-    cout << "I am Dev_Marcus, I am " << myNum << "Years old";
+    string name = "Makinde Williams";
+    int idNum = 3110;
+    int age = 21;
+    char grade = 'A';
+    float score = 99.9;
+
+    cout << "Student Name: " << name;
+    cout << "Student ID: " << idNum;
+    cout << "Student Age: " << age;
+    cout << "Student Grade: " << grade;
+    cout << "Student Score: " << score;
     return 0;
 }
