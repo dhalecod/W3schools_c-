@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main() {
     int num1;
@@ -9,7 +10,7 @@ int main() {
     cout << "Input second num \n";
     cin >> num2;
     sum = num1 + num2;
-    cout << "The sum of your numbers is: "sum;
+    cout << "The sum of your numbers is: " << sum;
     return 0;
 }
    
